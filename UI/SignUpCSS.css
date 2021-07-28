@@ -1,0 +1,86 @@
+.w-30
+{
+	width: 30%;
+	margin-left: 1em;
+}
+
+.display-5
+{
+	margin-left: 1em;
+}
+
+.container
+{
+	margin-left: 0px;
+	padding-left: 0px;
+	width: 100%;
+}
+
+#logo
+{
+	margin-right: 10em;
+}
+
+.navbar
+{
+	padding-top: 0px;
+}
+
+.row
+{
+	margin-right: 0px;
+    margin-left: 0px; 
+	width: 30em;
+}
+
+.logInDiv
+{
+	padding-left: 2em;
+	padding-left: 2em;
+	width: 60%;
+	margin-left: 20em;
+}
+
+form
+{
+	width: 90%;
+	padding-top: 3em; 
+	padding-bottom: 2em;
+	padding-left: 2.5em;
+	border: 2px solid #ffffff;
+	border-radius: 1.7em;
+	/* margin-top: 2.8em; */
+	
+	-webkit-box-shadow: 33px 36px 15px 10px rgba(0,0,0,0.41);
+	-moz-box-shadow: 33px 36px 15px 10px rgba(0,0,0,0.41);
+	box-shadow: 33px 36px 15px 10px rgba(0,0,0,0.41);
+}
+
+form #userFullName, form #userEmail, form #userPassword, form #userName, form #userConfirmPassword
+{
+	width: 90%;
+	padding: 0.3em 0.5em;
+	text-overflow: ellipsis;
+	margin-bottom: 1.5em;
+	color: purple;
+}
+
+#forgotPassword
+{
+	float: right;
+	margin-top: -1.5em;
+	padding-bottom: 1em;
+	padding-right: 1em;
+	color: #ffffff;
+}
+
+#forgotPassword:hover
+{
+	color: purple;
+}
+
+.Mid2
+{
+	margin-left: 15em; 
+}
+

@@ -1,0 +1,74 @@
+.Menu
+{
+	padding-left: 5%;
+	overflow: hidden;
+}
+
+.Menu ul
+{
+	border: 0.2em solid #C8C9C9;
+	margin-left: 1%;
+	padding-inline-start: 0;
+	border-radius: 1em;
+}
+
+#adminMenuToggle
+{
+	width: 2.5em;
+	height: 2.5em;
+}
+
+.Menu ul a li
+{
+	list-style-type: none;	
+	text-decoration: none;
+	color: #343a40;
+	font-size: 1.5em;
+	font-weight: 400;
+	padding-left: 1em;
+	padding-top: 0.68em;
+	padding-bottom: 0.68em;
+	border-bottom: 0.1em solid #C8C9C9;
+}
+
+.Menu ul a:nth-child(1) li
+{
+	background-color: #0f90ff;
+}
+
+.Menu ul a:nth-child(1) li
+{
+	color: #FFFFFF;
+}
+
+.Menu ul a:last-child li
+{
+	border-bottom: 0;
+}
+
+.Menu ul a:nth-child(1) li:hover 
+{
+	background-color: #0f90ff;
+}
+
+.Menu ul a:first-child li:hover
+{
+	cursor: pointer;
+	border-top-left-radius: 0.5em;
+	border-top-right-radius: 0.5em;
+}
+
+.Menu ul a:last-child li:hover 
+{
+	background-color: #dbebfb;
+	cursor: pointer;
+	border-bottom-left-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+}
+
+.Menu ul li:hover
+{
+	background-color: #dbebfb;
+	cursor: pointer;
+}
+
