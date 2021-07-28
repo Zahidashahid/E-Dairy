@@ -1,2 +1,2 @@
 # E-Dairy
- Semtester Project
+ Semtester Project (https://zahidashahid.github.io/E-Dairy/)
